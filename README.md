@@ -1,6 +1,8 @@
 <body>
 <h1 align="center">Tu Tu Ruuuuu Everybody</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A41EFF&center=true&width=435&lines=qVOVp+Idea+Factory" alt="Typing SVG" /></a>
+<br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Tint&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <hr>
 <br>
 
